@@ -14,7 +14,9 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
-	<key>CFBundleName</key>
+    <key>NSCameraUsageDescription</key>
+    <string>We use the camera to allow users to take photos when needed inside the app.</string>
+    <key>CFBundleName</key>
 	<string>NARTAWI</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
