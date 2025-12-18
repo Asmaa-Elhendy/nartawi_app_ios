@@ -176,3 +176,4 @@ flutter_launcher_icons:
   image_path: "assets/images/onboaring/Logo.png"
   adaptive_icon_foreground: "assets/images/onboaring/Logo.png" # foreground نفس اللوجو
   adaptive_icon_background: "#095BA8"
+  remove_alpha_ios: true
